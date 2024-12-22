@@ -1,9 +1,9 @@
-Voluptate reprehenderit ullamco do enim incididunt in sunt culpa occaecat fugiat elit eiusmod veniam ullamco. Lorem incididunt occaecat dolore tempor enim voluptate nulla officia. Nulla ea pariatur aute tempor nisi. Eu id ad tempor et elit sunt. Deserunt proident culpa do fugiat. Dolor culpa laborum excepteur laborum officia ea ex est eiusmod cupidatat magna veniam ad officia. Ad dolore Lorem cillum nostrud culpa sint excepteur esse ad.
+An algorithm consists of clear and precise guidelines for addressing a particular issue. There are different methods to address these issues.
 
-Ut occaecat consequat aute tempor nisi aliqua esse consequat tempor consequat minim. Qui officia sint aute labore. Culpa reprehenderit mollit nostrud elit excepteur eiusmod. Aute et enim sint tempor culpa ad dolor sit nulla nisi elit dolor elit. Deserunt labore dolor occaecat incididunt anim aliqua enim. Qui mollit adipisicing tempor laboris anim id non ullamco ut exercitation mollit nulla proident. Proident proident do dolore ipsum incididunt cupidatat minim adipisicing quis.
+This indicates that the approach you take to reach the same solution might vary from mine, yet we ought to achieve the same outcome.
 
-Dolor duis irure qui sint ipsum veniam elit pariatur commodo nisi adipisicing excepteur eiusmod. Minim proident ut consequat culpa ullamco incididunt commodo est. Aliquip eiusmod elit consectetur anim duis. Excepteur deserunt est occaecat ullamco sint ut consectetur.
+Since there are multiple approaches to address a problem, it is essential to assess these solutions or algorithms regarding their performance and efficiency (the duration required for your algorithm to run and the overall memory it will use).
 
-Dolore dolore excepteur sit ullamco Lorem ea labore sunt labore ex ex occaecat pariatur. Ex nulla duis amet culpa eiusmod cupidatat cupidatat sit. Ex quis eu mollit fugiat laboris eu proident. Sit minim sit est laborum proident elit duis officia nostrud. Eu duis commodo proident incididunt id est aliquip est. Consequat nisi velit elit duis mollit est veniam. Adipisicing incididunt commodo commodo excepteur consectetur do occaecat mollit occaecat culpa id ipsum commodo.
+It is essential for developers to make sure that their applications function correctly and to assist them in producing clean code.
 
-Tempor amet aliquip excepteur velit Lorem anim laboris. Sit consequat aute amet aute velit dolor. Culpa cupidatat ipsum ea minim ipsum nostrud. Velit tempor cupidatat sunt anim. Ullamco veniam ipsum id ea id qui aliqua sint in id labore nulla elit. Incididunt ut deserunt laborum consequat ut adipisicing commodo qui est aute excepteur. 
+This is when Big O Notation comes into play. Big O Notation serves as a measure for assessing the efficiency of an algorithm. It helps you gauge the duration your code will take to execute with various input sets and assess how well your code scales as the input size grows.
