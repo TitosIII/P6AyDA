@@ -1,9 +1,1 @@
-An algorithm consists of clear and precise guidelines for addressing a particular issue. There are different methods to address these issues.
-
-This indicates that the approach you take to reach the same solution might vary from mine, yet we ought to achieve the same outcome.
-
-Since there are multiple approaches to address a problem, it is essential to assess these solutions or algorithms regarding their performance and efficiency (the duration required for your algorithm to run and the overall memory it will use).
-
-It is essential for developers to make sure that their applications function correctly and to assist them in producing clean code.
-
-This is when Big O Notation comes into play. Big O Notation serves as a measure for assessing the efficiency of an algorithm. It helps you gauge the duration your code will take to execute with various input sets and assess how well your code scales as the input size grows.
+afasdfjasdhfas

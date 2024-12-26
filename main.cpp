@@ -63,18 +63,26 @@ int max(int x, int y){
 }
 
 int compare(char* str1, char* str2, int x, int y){
+    FILE * priori = fopen("main.csv","a");
+    int t = 0;
     int table[MAX][MAX];
     prepareArray((int *)&table[0], x, y);
     int i, j, aux;
+    t += max(x,y) + 2;
     for(i = 0; i < x; i++){
         for(j = 0 ; j < y; j++){
             aux = max(table[i][j + 1], table[i + 1][j]);
             if(*(str1 + i) == *(str2 + j)){
-                table[i + 1][j + 1] = aux + 1;
-            }else{
-                table[i + 1][j + 1] = aux;
+                aux ++;
+                t++;
             }
+            table[i + 1][j + 1] = aux;
+            t += 4;
         }
+        t += 1;
     }
+    t += 2;
+    fprintf(priori, "%d, %d\n", x + y, t);
+    fclose(priori);
     return table[i][j];
 }

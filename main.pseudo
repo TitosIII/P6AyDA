@@ -1,0 +1,21 @@
+Comparar()
+    Input: 
+        str1: String
+        str2: String
+    Output: 
+        longitud : int
+
+Comparar(str1, str2)
+    int n = str1.length
+    int m = str2.length
+
+    int A[0..n][0..m]
+
+    for i = 0 upto n
+        for j = 0 upto m
+            if str1[i] == str2[j]
+                A[i + 1][j + 1] = max(A[i][j+1], A[i + 1][j]) + 1
+            else
+                A[i + 1][j + 1] = max(A[i][j+1], A[i + 1][j])
+
+return A[i][j]

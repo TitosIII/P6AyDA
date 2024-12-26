@@ -1,9 +1,3 @@
-An algorithm is a set of well-defined instructions for solving a specific problem. You can solve these problems in various ways.
+Labore ut officia proident sunt elit deserunt anim minim anim amet pariatur nisi. Reprehenderit anim mollit eu consectetur pariatur amet mollit deserunt sit commodo cupidatat quis Lorem incididunt. Cupidatat commodo consequat dolore commodo nisi proident. Dolore adipisicing exercitation ea elit sint aliqua do. Ullamco nisi tempor velit in ipsum anim.
 
-This means that the method you use to arrive at the same solution may differ from mine, but we should both get the same result.
-
-Because there are various ways to solve a problem, there must be a way to evaluate these solutions or algorithms in terms of performance and efficiency (the time it will take for your algorithm to run/execute and the total amount of memory it will consume).
-
-This is critical for programmers to ensure that their applications run properly and to help them write clean code.
-
-This is where Big O Notation enters the picture. Big O Notation is a metric for determining the efficiency of an algorithm. It allows you to estimate how long your code will run on different sets of inputs and measure how effectively your code scales as the size of your input increases.
+Aliqua laborum eu pariatur ea mollit mollit incididunt. Deserunt id voluptate enim Lorem nulla Lorem ut eiusmod consequat ullamco qui consectetur mollit do. Veniam dolor velit minim consectetur mollit sit sunt esse Lorem exercitation laboris velit. Fugiat nisi id sit ullamco anim consequat aliqua laboris cupidatat eiusmod minim. Anim quis dolor dolor nisi labore qui irure culpa amet ea.
